@@ -900,24 +900,19 @@ backdrop-filter: blur(55px);
         @media screen and (max-width: 768px) {
             .hamburger { display: flex; }
                      .logo{font: 10px;}
-      
-                     .nav-menu  {
-                      background-color: #212121;
-                         z-index: 1000;
-                                      display: flex;
+          .nav-menu {
+              display: flex;
                 position: fixed;
                 top: 80px;
                 right: -100%;
                 flex-direction: column;
-
+                background: rgb(255, 255, 255);
                 width: 80%;
                 max-width: 300px;
                 border-radius: 30px;
-                box-shadow: 0 10px 30px rgba(22, 27, 106, 0.329);
+                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
                 padding: 20px;
-border: 1px solid gray;
-                transition: right 0.3s ease;
-                gap: 26px;
+                  
             }
 
 
