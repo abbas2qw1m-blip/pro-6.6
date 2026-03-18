@@ -97,6 +97,8 @@
         }
 
         /* Navigation */
+        nav ul {background-color: transparent;}
+        nav ul li {background-color: transparent;}
         nav{background-color: transparent;}
         .nav-menu {
         background-color: transparent;
@@ -899,6 +901,7 @@ backdrop-filter: blur(55px);
                      .logo{font: 10px;}
       
                      .nav-menu  {
+                      background-color: #212121;
                          z-index: 1000;
                                       display: flex;
                 position: fixed;
