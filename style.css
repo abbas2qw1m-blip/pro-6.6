@@ -97,6 +97,7 @@
         }
 
         /* Navigation */
+        nav ul li a{background-color: transparent;}
         nav ul {background-color: transparent;}
         nav ul li {background-color: transparent;}
         nav{background-color: transparent;}
