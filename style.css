@@ -99,6 +99,7 @@
         /* Navigation */
         nav{background-color: transparent;}
         .nav-menu {
+        background-color: transparent;
   backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
 z-index: 100;
