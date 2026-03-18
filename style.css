@@ -97,6 +97,7 @@
         }
 
         /* Navigation */
+        nav{background-color: transparent;}
         .nav-menu {
   backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
