@@ -892,13 +892,13 @@ background-color: white;
                 top: 80px;
                 right: -100%;
                 flex-direction: column;
-                background: red;
+                background: #212121;
                 width: 80%;
                 max-width: 300px;
                 border-radius: 30px;
                 box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
                 padding: 20px;
-                  
+               transition:  0.4s   
             }
 
 
